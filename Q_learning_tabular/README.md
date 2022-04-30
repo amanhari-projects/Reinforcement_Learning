@@ -1,5 +1,5 @@
 
-#Q Learning Tabular
+# Q Learning Tabular
 
 The notebook contains class defenition of Agent executing Value iteration and Q Learning in Tabular from (Applicable only to discrete action and observation space enviornments)
 
