@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Q Learning Tabular
 =======
+=======
+>>>>>>> d86f8231aa6d6db93994af0fe019ad10c1c2c798
 # Q Learning Tabular form
 
 The notebook contains class defenition of Agent executing Value iteration and Q Learning in Tabular from (Applicable only to discrete action and observation space enviornments)
@@ -20,4 +23,7 @@ The notebook contains class defenition of Agent executing Value iteration and Q 
 
 ## Reward v/s Iteration Graph for 4x4 Forzen Lake Env Q Learning Methord
 ![reward](https://user-images.githubusercontent.com/81060461/166109067-7c5ed7e5-7ba1-4626-98ad-ad27f5a1e2c5.svg)
+<<<<<<< HEAD
+>>>>>>> d86f8231aa6d6db93994af0fe019ad10c1c2c798
+=======
 >>>>>>> d86f8231aa6d6db93994af0fe019ad10c1c2c798
